@@ -1,4 +1,5 @@
 # Using the random module and choice method which returns a random element from a given sequence
+
 from random import choice   
 
 word = choice(('apple', 'grape', 'pear', 'almond', 'mango', 'pineapple', 'kiwi', 'watermelon', 'banana', 'lime'))
